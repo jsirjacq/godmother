@@ -14,9 +14,9 @@
                         required: true, minlength: 5
                     }
                 }, messages: {
-                    name: "Please enter your name",
+                    name: "Veuillez entrer votre nom",
                     subject: "Please enter your subject",
-                    email: "Please enter a valid email address",
+                    email: "Veuillez entrer votre adresse email",
                     message: "Please enter a message"
                 }, /* submit via ajax */
 
